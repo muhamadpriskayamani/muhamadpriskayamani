@@ -2,16 +2,29 @@
 
 <div align="center">
 
-### Full Stack Developer | Web & Mobile Enthusiast | SMK Wikrama Bogor Graduate
+### ✨ Full Stack Developer | Web & Mobile Enthusiast | SMK Wikrama Bogor Graduate ✨
 
 [![GitHub followers](https://img.shields.io/github/followers/muhamadpriskayamani?style=social)](https://github.com/muhamadpriskayamani)
 [![GitHub Stars](https://img.shields.io/github/stars/muhamadpriskayamani?style=social)](https://github.com/muhamadpriskayamani)
+
+---
+
+### 👋 Welcome to My GitHub Profile!
+
+```
+████████████████████████████████████████ 100% PASSION FOR CODE
+```
+
+**Currently:** 🚀 Building Amazing Web Applications
+**Location:** 📍 Indonesia | **Status:** 💼 Open for Opportunities
 
 </div>
 
 ---
 
 ## 👋 Tentang Saya
+
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqKSJFH/giphy.gif" alt="Coder" width="250">
 
 Saya adalah **Full Stack Developer** lulusan **SMK Wikrama Bogor** dari program keahlian **Pengembangan Perangkat Lunak dan Gim (PPLG)** yang passionate dalam menciptakan aplikasi web yang profesional, terstruktur, dan berorientasi pada kebutuhan pengguna.
 
@@ -22,6 +35,8 @@ Saya memiliki pengalaman dalam mengembangkan aplikasi web yang user-friendly, sy
 - 🧠 Clean code & software architecture
 - 💪 Hands-on problem solving & optimization
 - 📱 Web development (Frontend & Backend)
+
+<br>
 
 ---
 
@@ -60,85 +75,171 @@ Saya memiliki pengalaman dalam mengembangkan aplikasi web yang user-friendly, sy
 
 ---
 
+## 📊 Skill Proficiency
+
+<div align="center">
+
+| Skill | Proficiency |
+|-------|------------|
+| Frontend Development | ████████░░ 85% |
+| Backend Development | ███████░░░ 75% |
+| Database Design | ███████░░░ 75% |
+| Problem Solving | █████████░ 95% |
+| Team Collaboration | █████████░ 95% |
+
+</div>
+
+---
+
 ## 🎯 Fokus Saat Ini
 
-- 🔭 Terus mengasah skill dalam web development dan sistem design
-- 🌱 Belajar lebih lanjut tentang optimasi performa aplikasi
-- 👯 Terbuka untuk collaboration dengan developer lain dalam project menarik
-- 💪 Meningkatkan kemampuan dalam backend development dan architecture
-- 🚀 Mengeksplorasi teknologi dan best practices terbaru
+<div align="center">
+
+```
+🔄 CURRENTLY FOCUSING ON
+├─ 🔭 Web development & sistem design
+├─ 🌱 Application performance optimization
+├─ 👯 Collaborative project development
+├─ 💪 Backend architecture mastery
+└─ 🚀 Latest technologies exploration
+```
+
+</div>
 
 ---
 
 ## 💡 Expertise & Keahlian
 
-- **Web Development**: Full Stack Development (Frontend & Backend)
-- **Frontend**: React, Vue.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS
-- **Backend**: PHP, Laravel, NestJS, REST API Design
-- **Database**: MySQL, PostgreSQL, Database Design & Optimization
-- **Tools & Workflow**: Git & Github, Postman, Version Control
-- **Soft Skills**: Teamwork, Communication, Time Management, Adaptability & Continuous Learning
+<div align="center">
+
+| Category | Details |
+|----------|---------|
+| **Web Development** | Full Stack (Frontend & Backend) |
+| **Frontend** | React, Vue.js, HTML5, CSS3, JavaScript, TypeScript, Tailwind CSS |
+| **Backend** | PHP, Laravel, NestJS, REST API Design |
+| **Database** | MySQL, PostgreSQL, Database Design & Optimization |
+| **Tools & Workflow** | Git & Github, Postman, Version Control |
+| **Soft Skills** | Teamwork, Communication, Time Management, Adaptability, Learning |
+
+</div>
 
 ---
 
 ## 💼 Pengalaman Kerja
 
 ### 🏢 PT Inovasi Digital untuk Transformasi
-**Full Stack Developer** | *Januari - Juni 2025*
+**Full Stack Developer** | *Januari - Juni 2025* ⏱️
+
+```
+[====================================] Project Timeline: 6 Months
+```
 
 Mengembangkan dan mengimplementasikan aplikasi web profesional:
 - 🚀 **Server Hub** - Aplikasi web berbasis web untuk pengumpulan masalah dan troubleshooting
 - 📊 **ID Perform Development** - Platform manajemen tugas dengan evaluasi performa dan monitoring
 - 🔧 **Help Desk Redesign** - Reengineering sistem dengan penambahan fitur-fitur pendukung untuk meningkatkan efisiensi layanan pengguna
 
-**Tech Stack:** React, Tailwind CSS, TypeScript, REST API, NestJS (Backend)
+**Tech Stack:** 
+```
+Frontend  ► React + Tailwind CSS + TypeScript
+Backend   ► NestJS + REST API
+Tools     ► Postman + Git + Github
+```
 
 ---
 
 ### 🎓 SMK Wikrama Bogor
-**Front-End Developer** | *Agustus - September 2025*
+**Front-End Developer** | *Agustus - September 2025* ⏱️
+
+```
+[========================================] Project Timeline: 2 Months
+```
 
 Mengembangkan solusi inventory management untuk institusi pendidikan:
 - 📦 Implementasi prototipe frontend aplikasi inventory sekolah
 - ⚡ Optimasi proses peminjaman dan pengelolaan barang
 - 📈 Peningkatan efisiensi pengelolaan inventory dan pengalaman pengguna
 
-**Tech Stack:** React, HTML, CSS, JavaScript
+**Tech Stack:** 
+```
+Frontend  ► React + HTML + CSS + JavaScript
+```
 
 ---
 
 ## 🎓 Pendidikan
 
-### SMK Wikrama Bogor
-**Pengembangan Perangkat Lunak dan Gim (PPLG)** | *2023 - 2026*
+### 🏫 SMK Wikrama Bogor
+**Pengembangan Perangkat Lunak dan Gim (PPLG)** | *2023 - 2026* 📚
+
+```
+[=======================================] Program: 3 Years
+```
 
 **Kompetensi Utama:**
-- Konsep pemrograman dan software development lifecycle
-- Web development (HTML, CSS, JavaScript, PHP, Laravel, React, Vue.js)
-- Mobile development menggunakan Flutter
-- Database design & management (MySQL, PostgreSQL)
-- REST API development & integration
-- System analysis & design
-- Version control (Git & Github)
+```
+Core Skills
+├── 📖 Konsep pemrograman & SDLC
+├── 🌐 Web development (HTML, CSS, JavaScript, PHP, Laravel, React, Vue.js)
+├── 📱 Mobile development (Flutter)
+├── 💾 Database design (MySQL, PostgreSQL)
+├── 🔌 REST API development & integration
+├── 🏗️ System analysis & design
+└── 📌 Version control (Git & Github)
+```
 
 ---
 
 ## � GitHub Statistics
 
 <div align="center">
+
+<table>
+<tr>
+<td width="50%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhamadpriskayamani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</td>
+<td width="50%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadpriskayamani&layout=compact&theme=tokyonight&langs_count=8" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
 ## 🏆 Highlights & Achievements
 
-- ✨ **Hands-on Experience**: Berkontribusi dalam pengembangan aplikasi production-level di PT Inovasi Digital untuk Transformasi
-- 🎯 **Full Stack Capabilities**: Mahir dalam mengembangkan aplikasi dari frontend hingga backend dengan arsitektur yang clean dan scalable
-- 📈 **Performance Focus**: Meningkatkan efisiensi sistem dan pengalaman pengguna dalam setiap project
-- 🤝 **Team Player**: Strong communication skills dengan kemampuan berkolaborasi dalam tim development yang dinamis
-- 📚 **Continuous Learner**: Selalu update dengan teknologi terbaru dan best practices dalam software development
+<div align="center">
+
+```
+🌟 CAREER HIGHLIGHTS 🌟
+
+┌─────────────────────────────────────────────┐
+│ ✨ Hands-on Experience                      │
+│    Production-level app development        │
+│    at PT Inovasi Digital untuk Transformasi│
+├─────────────────────────────────────────────┤
+│ 🎯 Full Stack Capabilities                 │
+│    Clean & scalable architecture           │
+│    Frontend to Backend mastery             │
+├─────────────────────────────────────────────┤
+│ 📈 Performance Focus                       │
+│    System efficiency optimization          │
+│    User experience improvement             │
+├─────────────────────────────────────────────┤
+│ 🤝 Team Player                             │
+│    Strong collaboration skills             │
+│    Dynamic development environments        │
+├─────────────────────────────────────────────┤
+│ 📚 Continuous Learner                      │
+│    Always updated with tech trends         │
+│    Committed to best practices             │
+└─────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -152,6 +253,26 @@ Mengembangkan solusi inventory management untuk institusi pendidikan:
 
 </div>
 
+---
+
+<div align="center">
+
+## 🎉 Thank You for Visiting!
+
+```
+╔══════════════════════════════════════════════════╗
+║  Let's Build Something Amazing Together! 🚀     ║
+║  Feel free to reach out and let's collaborate    ║
+╚══════════════════════════════════════════════════╝
+```
+
+<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300">
+
+**Made with ❤️ by Muhamad Priska Yamani**
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=muhamadpriskayamani.muhamadpriskayamani)
+
+</div>
 ---
 
 <div align="center">
