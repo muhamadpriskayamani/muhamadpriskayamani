@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full Stack Developer | Web & Mobile Enthusiast | SMK Wikrama Bogor Graduate
+### Full Stack Developer | Web Developer | SMK Wikrama Bogor Graduate
 
 [![GitHub followers](https://img.shields.io/github/followers/muhamadpriskayamani?style=social)](https://github.com/muhamadpriskayamani)
 [![GitHub Stars](https://img.shields.io/github/stars/muhamadpriskayamani?style=social)](https://github.com/muhamadpriskayamani)
