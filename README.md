@@ -123,15 +123,6 @@ Mengembangkan solusi inventory management untuk institusi pendidikan:
 
 ---
 
-## � GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhamadpriskayamani&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadpriskayamani&layout=compact&theme=tokyonight&langs_count=8" />
-</div>
-
----
-
 ## 🏆 Highlights & Achievements
 
 - ✨ **Hands-on Experience**: Berkontribusi dalam pengembangan aplikasi production-level di PT Inovasi Digital untuk Transformasi
